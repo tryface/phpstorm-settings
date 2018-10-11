@@ -1,0 +1,208 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CopyrightManager" default="Tryface">
+        <copyright>
+          <option name="keyword" value="CopyTryface" />
+          <option name="notice" value="Sebastian Kessler - Tryface&#10;&#10;@category   Tryface&#10;@package    Tryface_Plugins&#10;@author     Sebastian Kessler &lt;s.kessler@tryface.de&gt;&#10;@copyright  Sebastian Kessler proprietary license &lt;https://www.tryface.de&gt;" />
+          <option name="myName" value="Tryface" />
+        </copyright>
+        <copyright>
+          <option name="keyword" value="CopyZooRoyal" />
+          <option name="myName" value="ZooRoyal" />
+          <option name="notice" value="ZooRoyal GmbH&#10;&#10;@category   Shopware&#10;@package    Shopware_Plugins&#10;@author     Sebastian Kessler &lt;s.kessler@zooroyal.de&gt;&#10;@license    ZooRoyal proprietary license &lt;https://www.zooroyal.de&gt;" />
+        </copyright>
+      </component>
+      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="Git.Settings">
+        <option name="ROOT_SYNC" value="DONT_SYNC" />
+        <option name="FORCE_PUSH_ALLOWED" value="false" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+        </profile>
+        <option name="projectProfile" value="Default" />
+        <option name="useProjectProfile" value="false" />
+        <option name="PROJECT_PROFILE" value="Default" />
+        <option name="USE_PROJECT_PROFILE" value="false" />
+        <version value="1.0" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES6" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7" />
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="ProjectDictionaryState">
+        <dictionary name="Komandar" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>CSS</id>
+              </State>
+              <State>
+                <id>Code quality toolsCSS</id>
+              </State>
+              <State>
+                <id>Code quality toolsJavaScript</id>
+              </State>
+              <State>
+                <id>Code style issuesCSS</id>
+              </State>
+              <State>
+                <id>Code style issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Control FlowPHP</id>
+              </State>
+              <State>
+                <id>Control flow issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Flow type checkerJavaScript</id>
+              </State>
+              <State>
+                <id>General</id>
+              </State>
+              <State>
+                <id>GeneralJavaScript</id>
+              </State>
+              <State>
+                <id>HTML</id>
+              </State>
+              <State>
+                <id>Internationalization issues</id>
+              </State>
+              <State>
+                <id>Invalid elementsCSS</id>
+              </State>
+              <State>
+                <id>JSON</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>JavaScript function metricsJavaScript</id>
+              </State>
+              <State>
+                <id>JavaScript validity issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Naming conventionsJavaScript</id>
+              </State>
+              <State>
+                <id>Naming conventionsPHP</id>
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>Potentially confusing code constructsJavaScript</id>
+              </State>
+              <State>
+                <id>Probable bugsCSS</id>
+              </State>
+              <State>
+                <id>Probable bugsJavaScript</id>
+              </State>
+              <State>
+                <id>RegExp</id>
+              </State>
+              <State>
+                <id>SQL</id>
+              </State>
+              <State>
+                <id>Shopware</id>
+              </State>
+              <State>
+                <id>ShopwareShopware</id>
+              </State>
+              <State>
+                <id>Spelling</id>
+              </State>
+              <State>
+                <id>UndefinedPHP</id>
+              </State>
+              <State>
+                <id>UnusedPHP</id>
+              </State>
+              <State>
+                <id>XML</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="JavaScriptPreferStrict" value="false" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+        <property name="last_opened_file_path" value="C:/Neuer Ordner/copyright/Tryface.xml" />
+        <property name="node.js.path.for.package.stylelint" value="project" />
+        <property name="node.js.selected.package.stylelint" value="" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="copyright.profiles" />
+      </component>
+      <component name="SshConsoleOptionsProvider">
+        <option name="myEncoding" value="UTF-8" />
+        <option name="myConnectionType" value="CURRENT_VAGRANT" />
+        <option name="myConnectionId" value="" />
+      </component>
+      <component name="TerminalProjectOptionsProvider">
+        <option name="myStartingDirectory" value="C:\workspace" />
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="Copyright.UI">
+            <settings>
+              <last-edited>Tryface</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="de5f090b-304b-44f7-afd8-b6e6a7ee19df" name="ZR Vagrant" url="https://dev.zooroyal.net">
+        <fileTransfer host="dev.zooroyal.net" port="22" privateKey="C:\Users\Komandar\.vagrant.d\boxes\zooroyal-VAGRANTSLASH-rl2017\0\virtualbox\vagrant_private_key" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="468977d2-11aa-4018-901f-7fed695bce63" name="GGC Website" url="https://www.ggc-stream.net">
+        <fileTransfer host="85.190.154.10" port="22" rootFolder="/var/www/htdocs/ggcstream.net" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4045b169-2dde-47d7-b7f8-1e5dfbb1ebab" name="ZR Stage" url="https://stage.zooroyal.rdss.it">
+        <fileTransfer host="admin.stage.zooroyal.rdss.it" port="22" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
